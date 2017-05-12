@@ -1,0 +1,1 @@
+C:\Users\Todor\Documents\Visual Studio 2015\Projects\DSA\homeworks\06_AdvancedDS\AdvancedDS\SearchInLargeText\bin\Debug\SearchInLargeText.exe.config

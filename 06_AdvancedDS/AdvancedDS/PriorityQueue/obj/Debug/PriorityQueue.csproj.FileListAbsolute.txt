@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2015\Projects\DSA\homeworks\06_AdvancedDS\AdvancedDS\PriorityQueue\bin\Debug\PriorityQueue.exe.config
+C:\Users\Todor\Documents\Visual Studio 2015\Projects\DSA\homeworks\06_AdvancedDS\AdvancedDS\PriorityQueue\bin\Debug\PriorityQueue.exe
+C:\Users\Todor\Documents\Visual Studio 2015\Projects\DSA\homeworks\06_AdvancedDS\AdvancedDS\PriorityQueue\bin\Debug\PriorityQueue.pdb
+C:\Users\Todor\Documents\Visual Studio 2015\Projects\DSA\homeworks\06_AdvancedDS\AdvancedDS\PriorityQueue\obj\Debug\PriorityQueue.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2015\Projects\DSA\homeworks\06_AdvancedDS\AdvancedDS\PriorityQueue\obj\Debug\PriorityQueue.exe
+C:\Users\Todor\Documents\Visual Studio 2015\Projects\DSA\homeworks\06_AdvancedDS\AdvancedDS\PriorityQueue\obj\Debug\PriorityQueue.pdb

@@ -1,0 +1,8 @@
+C:\Users\Todor\Documents\Visual Studio 2015\Projects\DSA\homeworks\06_AdvancedDS\AdvancedDS\LargeProductsCollection\bin\Debug\LargeProductsCollection.exe.config
+C:\Users\Todor\Documents\Visual Studio 2015\Projects\DSA\homeworks\06_AdvancedDS\AdvancedDS\LargeProductsCollection\bin\Debug\LargeProductsCollection.exe
+C:\Users\Todor\Documents\Visual Studio 2015\Projects\DSA\homeworks\06_AdvancedDS\AdvancedDS\LargeProductsCollection\bin\Debug\LargeProductsCollection.pdb
+C:\Users\Todor\Documents\Visual Studio 2015\Projects\DSA\homeworks\06_AdvancedDS\AdvancedDS\LargeProductsCollection\bin\Debug\PowerCollections.dll
+C:\Users\Todor\Documents\Visual Studio 2015\Projects\DSA\homeworks\06_AdvancedDS\AdvancedDS\LargeProductsCollection\bin\Debug\PowerCollections.xml
+C:\Users\Todor\Documents\Visual Studio 2015\Projects\DSA\homeworks\06_AdvancedDS\AdvancedDS\LargeProductsCollection\obj\Debug\LargeProductsCollection.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2015\Projects\DSA\homeworks\06_AdvancedDS\AdvancedDS\LargeProductsCollection\obj\Debug\LargeProductsCollection.exe
+C:\Users\Todor\Documents\Visual Studio 2015\Projects\DSA\homeworks\06_AdvancedDS\AdvancedDS\LargeProductsCollection\obj\Debug\LargeProductsCollection.pdb
